@@ -1,5 +1,5 @@
 # 💫 About Me:
-ECE graduate with hands on experience developing Java based applications using JDBC, SQL, and Object<br>Oriented Programming principles. Built a database driven Student Management System demonstrating end-to-end<br>backend development capability including CRUD operations, relational database design, and modular code<br>architecture. Familiar with HTML, CSS, JavaScript, and Git based version control workflows. Seeking a Junior<br>Software Developer role to contribute to scalable, maintainable backend systems.
+☕ Aspiring Java Developer passionate about building efficient and scalable applications.<br>🎓 Bachelor's degree student in Computer Science and Engineering.<br>💻 Focused on Java, Object-Oriented Programming, Data Structures, and Software Development.<br>🚀 Continuously learning and building projects to strengthen my development skills.
 
 
 ## 🌐 Socials:
